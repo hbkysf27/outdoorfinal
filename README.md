@@ -12,9 +12,18 @@ after running the backend install the dependancies using npm install
 
 and run the front end using nx serve admin and nx serve ngshop
 
+email and password for admin signin is 
+
+ysf@gmail.com password is 123
+&
+pasindu@gmail.com & password is 123
+
 below image is the user side of the application
 <img width="680" alt="image" src="https://github.com/hbkysf27/outdoorfinal/assets/86113227/1b5b05b2-85f2-4c7e-a536-fa7895f76de8">
 
 below image is the admin side of the applicaiton 
 <img width="960" alt="image" src="https://github.com/hbkysf27/outdoorfinal/assets/86113227/eaa869e0-e12a-4052-a16f-f885535ba2e3">
+
+<img width="960" alt="image" src="https://github.com/hbkysf27/outdoorfinal/assets/86113227/8b4ed96f-48df-4647-b59c-5dc9faa87d91">
+
 
